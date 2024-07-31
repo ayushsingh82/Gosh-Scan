@@ -18,7 +18,9 @@ UbitScan is a tool designed to simplify the tracking of transactions and balance
 - **Comprehensive Portfolio Overview**: UbitScan provides a comprehensive overview of your UBIT domain portfolio, including detailed information such as time, hash, and more.
 - **Future Development**: The future goal of UbitScan is to evolve into a complete portfolio tracker for UBIT. This will include additional features such as portfolio performance analysis, asset allocation insights, and customizable reporting.
 
-- ![image](https://github.com/ayushsingh82/Ubit-Scan/assets/121667116/7c28a30c-0e45-449e-8d47-38089deb8052)
+
+
+![image](https://github.com/user-attachments/assets/a7ce5e1f-1423-4f8f-bb55-42071191f9f0)
 
 
 
