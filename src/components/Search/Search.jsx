@@ -79,7 +79,7 @@ function Search(props) {
 
   const handleSearch = async () => {
     console.log('Search clicked with value:', inputValue);
-    if (inputValue === 'vitalik.ubit') {
+    if (inputValue === 'vitalik.gosh') {
       setDomains([{ resolvedAddress: { id: '0xd8da6bf26964af9d7eed9e03e53415d37aa96045' } }]);
     } else {
       getDomains();
