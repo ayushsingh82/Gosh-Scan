@@ -1,8 +1,8 @@
-# UbitScan
+# GOSH-Scan
 
 ## Introduction
 
-UbitScan is a tool designed to simplify the tracking of transactions and balances within the ubit domain. Tracking transactions and balances through the ubit domain can be challenging, so UbitScan aims to provide a one-stop solution for tracking addresses, balances, internal transactions, and external transactions. We have connected .eth to .ubit through ICNS (Interchain naming system) https://app.icns.xyz/
+GOSH-Scan is a tool designed to simplify the tracking of transactions and balances within the gosh domain. Tracking transactions and balances through the gosh domain can be challenging, so GoshScan aims to provide a one-stop solution for tracking addresses, balances, internal transactions, and external transactions. We have connected .eth to .gosh through ICNS (Interchain naming system) https://app.icns.xyz/
 
 
 ## Features
@@ -11,12 +11,12 @@ UbitScan is a tool designed to simplify the tracking of transactions and balance
 
 
 
-- **Address Tracking**: Easily track addresses within the ubit domain.
+- **Address Tracking**: Easily track addresses within the gosh domain.
 - **Balance Monitoring**: Keep an eye on the balance of addresses.
-- **Internal Transaction Tracking**: Monitor internal transactions within the ubit domain.
-- **External Transaction Tracking**: Track external transactions involving ubit domain addresses.
-- **Comprehensive Portfolio Overview**: UbitScan provides a comprehensive overview of your UBIT domain portfolio, including detailed information such as time, hash, and more.
-- **Future Development**: The future goal of UbitScan is to evolve into a complete portfolio tracker for UBIT. This will include additional features such as portfolio performance analysis, asset allocation insights, and customizable reporting.
+- **Internal Transaction Tracking**: Monitor internal transactions within the gosh domain.
+- **External Transaction Tracking**: Track external transactions involving gosh domain addresses.
+- **Comprehensive Portfolio Overview**: Gosh-Scan provides a comprehensive overview of your GOSH domain portfolio, including detailed information such as time, hash, and more.
+- **Future Development**: The future goal of GOSH-Scan is to evolve into a complete portfolio tracker for GOSH. This will include additional features such as portfolio performance analysis, asset allocation insights, and customizable reporting.
 
 
 
@@ -28,7 +28,7 @@ UbitScan is a tool designed to simplify the tracking of transactions and balance
 
 ## How It Works
 
-UbitScan utilizes the .ubit domain to access and track transactions and balances within the UBIT ecosystem. By leveraging this domain, UbitScan can provide users with real-time insights into their ubit domain activities.
+Gosh-Scan utilizes the .gosh domain to access and track transactions and balances within the GOSH ecosystem. By leveraging this domain, GOSH-Scan can provide users with real-time insights into their gosh domain activities.
 
 
 # React + Vite
